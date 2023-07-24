@@ -1,12 +1,12 @@
-Hello i am Aditya Sengupta ✌
+Hello i am Aditya Sengupta ✌,a prefinal year Cse student 
 
 
 
-I’m interested in web development and data analytics 👀 
+ Interested in web development and data analytics 👀 
 
  
  
- I’m currently learning Machine Learning  🌱
+ Currently learning Machine Learning  🌱
 
  
 
