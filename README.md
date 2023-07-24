@@ -1,6 +1,16 @@
-✌- Hello i am Aditya Sengupta 
-👀- I’m interested in web development and data analytics
- 🌱- I’m currently learning Machine Learning 
+Hello i am Aditya Sengupta ✌
+
+
+
+I’m interested in web development and data analytics 👀 
+
+ 
+ 
+ I’m currently learning Machine Learning  🌱
+
+ 
+
+Fun fact : I can bend my thumb in weird angles  🙌 
 
  ✔-How to reach me - adityasengupta6190@gmail.com/ adionstackoverflow@gmail.com
 
